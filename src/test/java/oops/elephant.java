@@ -1,5 +1,9 @@
 package oops;
 
-public class elephant {
+public class elephant extends mamal1{
 
+	
+	void lying() {
+		System.out.println("lying");
+	}
 }
